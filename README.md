@@ -63,7 +63,15 @@
 *Использованные инструменты:* Кабинетные интервью, количественные исследования, Аффинити-диаграмма, User story map (пользовательские требования) + приоритизация по MoSCoW, CJM, Figma, Miro
 
 *Дополнительные ссылки:* [User Story Map](https://miro.com/app/board/uXjVIQUzfUA=/), [Affinity Diagramm](https://miro.com/app/board/uXjVLEUuitc=/)
-### 4) Проекты в рамках дисциплины "Интеллектуальный анализ данных":
+
+### 4) Проект SaveIt - парсинг данных Foodtech компаний и алгоритм расчета личной нормы КБЖУ и предложение наиболее оптимальных комбинаций блюд рациона на основе личных характеристик и дневного бюджета: 
+*Описание:* Спарсил данные о готовых блюдах с популярных сайтов Foodtech компаний и написал алгоритм поиска наиболее оптимальных наборов блюд для дневного рациона (по бюджету и дневной норме КБЖУ)
+
+*Ссылка на код:* [код](https://github.com/Theawtm/theawtm.github.io/blob/main/Pet-проекты%20(Аналитика)/SaveIt/Saveat.ipynb)
+
+*Использованные инструменты:* pandas, BeautifulSoup, requests, re, json
+
+### 5) Проекты в рамках дисциплины "Интеллектуальный анализ данных":
 - **Практическое использование библиотеки Numpy**:
 *Ссылка на код:* [код](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Numpy%20(1).ipynb)
 
@@ -80,6 +88,17 @@
 *Ссылка на код и датасет:* [код](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Линейная%20регрессия%20и%20KNN/KNN%20и%20Линейная%20регрессия%20(4).ipynb) + [датасет пингвины](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Линейная%20регрессия%20и%20KNN/penguins_data.csv) + [датасет бриллианты](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Линейная%20регрессия%20и%20KNN/diamonds.csv)
 
 *Использованные инструменты:* sklearn, pandas, numpy, matplotlib, seaborn
+
+- **Градиентный спуск для линейной регрессии при разных параметрах и функциях потерь для предсказания стоимости автомобилей на основе основных признаков**:
+*Ссылка на код и датасет:* [код](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Градиентный%20спуск/hw05_gd_Matt_Saev.ipynb) + [датасет](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Градиентный%20спуск/cars_data.csv)
+
+*Использованные инструменты:* sklearn, pandas, numpy, matplotlib, seaborn
+
+- **Классификатор твиттов про коронавирус по эмоциональной окраске**:
+*Ссылка на код и датасет:* [код](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Текстовая%20обработка/Saev_hw06_texts.ipynb) + [датасет](https://github.com/Theawtm/theawtm.github.io/blob/main/ИАД/Текстовая%20обработка/tweets_coronavirus.csv)
+
+*Использованные инструменты:* sklearn, pandas, numpy, matplotlib, seaborn, collections, nltk
+
 
 ## 📫 Контакты
 
